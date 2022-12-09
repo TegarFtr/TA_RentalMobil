@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670544484 source:e:\coding\project\tugas akhir\main.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<algorithm>
+
